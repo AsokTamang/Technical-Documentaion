@@ -76,6 +76,11 @@ nav ul a{
 }
 .main-doc{
     width: 100%;
+    font-family:'Times New Roman', Times, serif
+}
+.main-doc>h1{
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .main-section p{
     margin:0 15px ;
